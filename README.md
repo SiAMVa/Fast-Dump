@@ -9,9 +9,9 @@
 🔗 pip2 install requests
 🔗 pip2 install mechanize
 🔗 pkg install git
-🔗 git clone https://github.com/PSYCHO-PICCHI/Fast-Dump.git
+🔗 git clone https://github.com/SiAMVa/Fast-Dump
 🔗 cd Fast-Dump
-🔗 python Psycho.py
+🔗 python siamvau.py
 
 🖤 Thank you For Using My Tools 🖤
 
