@@ -1,5 +1,5 @@
 ## <b>Screenshot</b>
-<a href="https://github.com/PSYCHO-PICCHI/Fast-Dump"><img src="https://i.ibb.co/3WT0ghf/Psycho-Picchi.png" alt="Psycho-Picchi" border="0"></a>
+ 
 ## <b>installation</b>
 ```
 🔗 pkg update
